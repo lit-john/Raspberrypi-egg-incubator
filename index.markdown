@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Welcome to the home page
+Welcome to my Raspberry PI Egg Incubator. The purpose of this site is to document what I am doing/learning as I attempt to build a Raspberry PI Egg Incubator.
